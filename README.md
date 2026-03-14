@@ -51,6 +51,6 @@ if is_color(540, 960, (255, 0, 0)):
 
 | Script | Usage |
 |---|---|
-| `check_id.py` | Affiche les appareils ADB connectés |
-| `helper/find_coords.py` | Capture l'écran, cliquer pour obtenir coords + RGB |
-| `helper/make_a_screen.py` | Capture une région définie et la sauvegarde en PNG |
+| `check_id.py` | Display all connected ADB devices |
+| `helper/find_coords.py` | Capture the screen, click to get coordinates + RGB |
+| `helper/make_a_screen.py` | Capture a defined region and save it in PNG |
